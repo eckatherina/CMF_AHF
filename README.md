@@ -97,10 +97,6 @@ We always study on the entire dataset(macro features and technical features) unl
 12) Fitting using FRED
 
 
-#### Bonus
-If we have time: use the extracted features from the lasso and build neural network (for example, LSTM) and compare results.
-
-
 #### The article we will use
 [Forecasting crude oil prices with a large set of predictors: Can LASSO select powerful predictors?](https://sci-hub.ru/10.1016/j.jempfin.2019.08.007)
 #### Additional materials
