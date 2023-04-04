@@ -56,7 +56,7 @@ What data do we need:
 - [Macro database called FRED-MD](https://research.stlouisfed.org/econ/mccracken/fred-databases/)
 
 ### Article Pipeline
-#### How we fit and evaluate the models?
+#### How do we fit and evaluate the models?
 1) Fit on a train dataset
 2) Evaluate on a out-of-sample dataset
 
