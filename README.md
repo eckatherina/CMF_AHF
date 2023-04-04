@@ -96,11 +96,6 @@ We always study on the entire dataset(macro features and technical features) unl
 11) Forecasting nominal prices of crude oil and RAC
 12) Fitting using FRED
 
-### Model results
-
-[Here](https://docs.google.com/spreadsheets/d/15WazZa0MWoJkpjvF9XC5v7tHg0rsGXSG7E3aAxc74hc/edit?usp=sharing)
-
-
 
 #### Bonus
 If we have time: use the extracted features from the lasso and build neural network (for example, LSTM) and compare results.
